@@ -5,7 +5,7 @@ Professional Reconnaissance & OSINT Platform
 
 Features:
 - Advanced DNS enumeration (20+ record types)
-- Multi-source subdomain discovery
+- Multi-source subdomain discovery 
 - Port scanning (TCP/UDP, service detection)
 - Technology stack detection
 - SSL/TLS certificate analysis
